@@ -1,0 +1,98 @@
+body {
+  /*background-color: #25258E;*/
+  /*background: url("../images/toy.jpg") no-repeat, #25258E;*/
+  /*background-repeat: no-repeat;*/
+  min-height:100%;
+  background:linear-gradient(0deg,rgba(37,37,142,0.95),rgba(37,37,142,0.95)),url("../images/up.jpg");
+  background-size:cover;
+}
+
+#logo {
+  margin-top: 40px;
+  width: 150px;
+}
+
+#trivia {
+  font-family: 'Kumar One Outline', cursive;
+  font-size: 90px;
+  margin-top: 40px;
+  color: #EF3D49;
+}
+
+#front-page-h1{
+  color: #fff;
+  font-size: 28px;
+  margin-top: 30px;
+}
+
+#startBtn {
+  margin-top: 100px;
+  width: 300px;
+  border: 3px solid #E6385C;
+  background-color: #25258E;
+  color: #fff;
+  padding: 20px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  font-size: 18px;
+}
+
+#startBtn:hover {
+  background-color: #E6385C;
+}
+
+#counter {
+  margin-top: 20px;
+  color: #fff;
+  font-size: 28px;
+}
+
+#wrapper{
+  color: #fff;
+}
+
+.answer-button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 500px;
+  border: 3px solid #E6385C;
+  background-color: #25258E;
+  color: #fff;
+  padding: 20px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  font-size: 20px;
+}
+
+.answer-button:hover {
+  background-color: #E6385C;
+}
+
+#button-0 {
+  margin-top: 50px;
+}
+
+.gif {
+  width: 600px;
+  margin-top: 20px;
+}
+
+#reset {
+  margin-top: 100px;
+  width: 300px;
+  border: 3px solid #E6385C;
+  background-color: #25258E;
+  color: #fff;
+  padding: 20px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  font-size: 18px;
+}
+
+#reset:hover {
+  background-color: #E6385C;
+}
+
+
+
