@@ -3,7 +3,7 @@ body {
   /*background: url("../images/toy.jpg") no-repeat, #25258E;*/
   /*background-repeat: no-repeat;*/
   min-height:100%;
-  background:linear-gradient(0deg,rgba(37,37,142,0.95),rgba(37,37,142,0.95)),url("../images/up.jpg");
+  background:linear-gradient(0deg,rgba(20,16,65,0.95),rgba(20,16,65,0.95)),url("../images/up.jpg");
   background-size:cover;
 }
 
@@ -16,7 +16,7 @@ body {
   font-family: 'Kumar One Outline', cursive;
   font-size: 90px;
   margin-top: 50px;
-  color: #EF3D49;
+  color: #F0C610;
 }
 
 #front-page-h1{
@@ -28,8 +28,8 @@ body {
 #startBtn {
   margin-top: 100px;
   width: 300px;
-  border: 3px solid #E6385C;
-  background-color: #25258E;
+  border: 3px solid #F0C610;
+  background-color: #141041;
   color: #fff;
   padding: 20px;
   font-weight: bold;
@@ -38,7 +38,7 @@ body {
 }
 
 #startBtn:hover {
-  background-color: #E6385C;
+  background-color: #F0C610;
 }
 
 #counter {
@@ -56,21 +56,58 @@ body {
   margin: 0 auto;
   margin-top: 15px;
   width: 500px;
-  border: 3px solid #E6385C;
-  background-color: #25258E;
-  color: #fff;
+  /*border: 3px solid #E6385C;*/
+  background-color: #141041;
+  /*color: #fff;*/
   padding: 20px;
   font-weight: bold;
   letter-spacing: 4px;
   font-size: 20px;
 }
 
-.answer-button:hover {
+/*.answer-button:hover {
   background-color: #E6385C;
-}
+}*/
 
 #button-0 {
   margin-top: 50px;
+  border: 3px solid #F0C610;
+  color: #F0C610;
+}
+
+#button-0:hover {
+  background-color: #F0C610;
+  color: #fff;
+}
+
+#button-1 {
+  border: 3px solid #2FCE73;
+  color: #2FCE73;
+}
+
+#button-1:hover {
+  background-color: #2FCE73;
+  color: #fff;
+}
+
+#button-2 {
+  border: 3px solid #E7523C;
+  color: #E7523C;
+}
+
+#button-2:hover {
+  background-color: #E7523C;
+  color: #fff;
+}
+
+#button-3 {
+  border: 3px solid #3598DB;
+  color: #3598DB;
+}
+
+#button-3:hover {
+  background-color: #3598DB;
+  color: #fff;
 }
 
 .gif {
@@ -81,8 +118,8 @@ body {
 #reset {
   margin-top: 100px;
   width: 300px;
-  border: 3px solid #E6385C;
-  background-color: #25258E;
+  border: 3px solid #F0C610;
+  background-color: #141041;
   color: #fff;
   padding: 20px;
   font-weight: bold;
@@ -91,7 +128,7 @@ body {
 }
 
 #reset:hover {
-  background-color: #E6385C;
+  background-color: #F0C610;
 }
 
 
