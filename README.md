@@ -18,6 +18,4 @@
 - CSS
 
 <br/>
-![trivia1](https://user-images.githubusercontent.com/28972721/37249485-43edc238-249d-11e8-8f9c-d2dff4615c6e.jpg)
-![trvia2](https://user-images.githubusercontent.com/28972721/37249486-4561f2ec-249d-11e8-8940-30614f3d974b.jpg)
-
+![trivia1](https://user-images.githubusercontent.com/28972721/37249500-8dc554c0-249d-11e8-9c76-519325b8b007.jpg)
