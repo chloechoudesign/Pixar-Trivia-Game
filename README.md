@@ -16,6 +16,7 @@
 - JavaScript `setInterval()` function
 - HTML
 - CSS
+- Bootstrap
 
 <br/>
 <img width="600" alt="8" src="https://user-images.githubusercontent.com/28972721/37249543-43cce5c6-249e-11e8-9598-289589262b2d.png">
