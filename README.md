@@ -18,4 +18,4 @@
 - CSS
 
 <br/>
-![trivia1](https://user-images.githubusercontent.com/28972721/37249500-8dc554c0-249d-11e8-9c76-519325b8b007.jpg)
+<img width="1616" alt="8" src="https://user-images.githubusercontent.com/28972721/37249543-43cce5c6-249e-11e8-9598-289589262b2d.png">
